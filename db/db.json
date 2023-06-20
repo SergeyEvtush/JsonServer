@@ -1,27 +1,6 @@
 {
   "users": [
     {
-      "name": "Sergey1233333",
-      "email": "evtushru208@gmail.com",
-      "children": true,
-      "permissions": true,
-      "id": 3
-    },
-    {
-      "name": "SergeyEvtushenko",
-      "email": "SergeyEvtushenko@gmail.com",
-      "children": false,
-      "permissions": false,
-      "id": 4
-    },
-    {
-      "name": "Mihail",
-      "email": "mihail@mail.ru",
-      "children": true,
-      "permissions": false,
-      "id": 5
-    },
-    {
       "name": "SergeyEvtushenko",
       "email": "evtushru245640@gmail.com",
       "children": true,
@@ -34,6 +13,20 @@
       "children": false,
       "permissions": false,
       "id": 7
+    },
+    {
+      "name": "Sergey",
+      "email": "evtushru208@gmail.com",
+      "children": true,
+      "permissions": false,
+      "id": 8
+    },
+    {
+      "name": "Sergey1",
+      "email": "mihail@mail.ru",
+      "children": true,
+      "permissions": false,
+      "id": 9
     }
   ]
 }

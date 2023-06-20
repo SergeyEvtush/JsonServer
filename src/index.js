@@ -9,7 +9,7 @@ import { sortIsChildren } from "./modules/sortIsChildren";
 import { searchUsers } from "./modules/searchUsers";
 
 
-window.userService = new UserService;
+window.userService = new UserService("http://localhost:4545/users");
 
 userService.getUsers().then(data => render(data));
 addUsers();
